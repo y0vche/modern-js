@@ -5,6 +5,7 @@ GAME FUNCTION
  - Notify the player of the correct answer if lose
  - Let player choose to play again
 
+NOTES: 
 
  NaN == NaN // is false
  NaN === NaN // is false
