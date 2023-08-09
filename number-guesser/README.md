@@ -4,8 +4,6 @@ GAME FUNCTION
  - Notify player of guesses remaining
  - Notify the player of the correct answer if lose
  - Let player choose to play again
-   
-================================
 
 
  NaN == NaN // is false
